@@ -1,3 +1,13 @@
+[Adblock Plus 2.0]
+! Title: Qiyang List
+! Expires: 1 days (update frequency)
+! Version: 1
+! Last modified: 21 Mar 2021
+! Homepage: https://github.com/yanmofeixi/MyAdblock
+! Contribute: https://github.com/yanmofeixi/MyAdblock
+! License: https://mit-license.org/
+!-------------------------------------------------------------------------------
+
 3dmgame.com##DIV[class="R_qingtianzhu"]
 3dmgame.com##DIV[class="Tonglan_two"]
 3dmgame.com##DIV[class="tonglona_2"]
