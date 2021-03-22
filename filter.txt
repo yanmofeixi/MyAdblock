@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Qiyang List
 ! Expires: 1 days (update frequency)
-! Version: 1
+! Version: 3
 ! Last modified: 21 Mar 2021
 ! Homepage: https://github.com/yanmofeixi/MyAdblock
 ! Contribute: https://github.com/yanmofeixi/MyAdblock
@@ -17,15 +17,20 @@ cnn.com##DIV[id*="sp_message_id"]
 douyu.com##DIV[class*="-ad"]
 douyu.com##DIV[class="LuckGiftEnter"]
 douyu.com##DIV[class="PaladinWeek"]
+douyu.com##DIV[class="Prompt-container"]
 douyu.com##DIV[class="RoomText-wrap"]
 douyu.com##DIV[class="ToolbarActivityArea"]
 douyu.com##DIV[class="TurntableLottery"]
+douyu.com##DIV[class="ZoomTip"]
 douyu.com##DIV[class="f-sign-cont"]
 douyu.com##DIV[class="myFollow-promot"]
 douyu.com##DIV[id="js-bottom"][class="layout-Bottom"]
 douyu.com##DIV[id="js-room-activity"]
+mitbbs.com##DIV[class="channel_wrap"]
+pastebin.com##DIV[id^="__vliadb83"]
 slickdeals.net##DIV[id*="crt-adblock"]
 slickdeals.net##DIV[id="featureDealsAndCoupons"][class="gridCategory"]
 tieba.baidu.com#?#LI[class$="clearfix"]:-abp-has(span:-abp-contains(广告))
 weibo.com##DIV[feedtype="ad"]
 zhihu.com##DIV[class="Card Banner"]
+weibo.com##DIV[id*="_recom_member"]
