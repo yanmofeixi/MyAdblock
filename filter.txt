@@ -1,13 +1,19 @@
 [Adblock Plus 2.0]
 ! Title: Qiyang List
 ! Expires: 1 days (update frequency)
-! Version: 3
+! Version: 7
 ! Last modified: 21 Mar 2021
 ! Homepage: https://github.com/yanmofeixi/MyAdblock
 ! Contribute: https://github.com/yanmofeixi/MyAdblock
 ! License: https://mit-license.org/
 !-------------------------------------------------------------------------------
-
+1point3acres.com##DIV[class="drag"]
+1point3acres.com##DIV[id="forum_side_menu"]
+1point3acres.com##DIV[id="portal_block_424"]
+1point3acres.com##DIV[id="portal_block_460"]
+1point3acres.com##DIV[id="sticky-ad-container"]
+1point3acres.com#?#DIV[class^="bm"]:-abp-has(div[id*="ad-banner"])
+1point3acres.com#?#TBODY:-abp-has(ins[class="adsbygoogle"])
 3dmgame.com##DIV[class="R_qingtianzhu"]
 3dmgame.com##DIV[class="Tonglan_two"]
 3dmgame.com##DIV[class="tonglona_2"]
@@ -26,11 +32,23 @@ douyu.com##DIV[class="f-sign-cont"]
 douyu.com##DIV[class="myFollow-promot"]
 douyu.com##DIV[id="js-bottom"][class="layout-Bottom"]
 douyu.com##DIV[id="js-room-activity"]
+finance.yahoo.com##DIV[data-reactid="25"]
+finance.yahoo.com##SECTION[class*="premiumPromo"]
+gamersky.com##DIV[class="QZnav"]
+gamersky.com##DIV[class="Top home"]
+gamersky.com##DIV[class="bgAdWrap"]
 mitbbs.com##DIV[class="channel_wrap"]
 pastebin.com##DIV[id^="__vliadb83"]
 slickdeals.net##DIV[id*="crt-adblock"]
 slickdeals.net##DIV[id="featureDealsAndCoupons"][class="gridCategory"]
+tieba.baidu.com##DIV[class*="app_download_box"]
+tieba.baidu.com##DIV[class*="card_banner"]
+tieba.baidu.com##DIV[class*="card_top_theme"]
+tieba.baidu.com##DIV[class="share_btn_wrapper"]
+tieba.baidu.com##DIV[id*="celebrity"]
+tieba.baidu.com##UL[class*="tbui_aside_float_bar"]
 tieba.baidu.com#?#LI[class$="clearfix"]:-abp-has(span:-abp-contains(广告))
 weibo.com##DIV[feedtype="ad"]
-zhihu.com##DIV[class="Card Banner"]
 weibo.com##DIV[id*="_recom_member"]
+youtube.com#?#ytd-rich-item-renderer[class="style-scope ytd-rich-grid-renderer"]:-abp-has(ytd-display-ad-renderer)
+zhihu.com##DIV[class="Card Banner"]
